@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+      <head>
+	      <title>A NIGHTMARE ON ELM STREET</title>
+	  </head>
+	  <body>
+	         <h2>A NIGHTMARE ON ELM STREET</h2>
+			 
+	  <p>
+	     The feature of this film is the confusion between reality and dream. 
+		 The director successfully created a confusing and terrifying tension. 
+		 The person killed by Freddy in the dream will also die in reality. 
+		 The actors are one by one. He was killed because he couldn't escape 
+		 the <b>"nightmare"</b> he created.</p>
+<nav>
+  <a href="Assignment2.html">HOME</a>  |
+  <a href="FIRDAY THE 13TH.html">FIRDAY THE 13TH</a>  |
+  <a href="A NIGHTMARE ON ELM STREET.html">A NIGHTMARE ON ELM STREET</a>  |
+  <a href="#">HALLOWEEN</a>  |
+</nav>
+
+<img src="images/street.jpg">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZuYoEtEI_go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      </body>
+</html>

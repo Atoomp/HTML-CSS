@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+      <head>
+	      <title>Classic Horror Movie</title>
+	  </head>
+	  <body>
+	         <h2 style="padding: 2rem;text-shadow:10px 2px 4px #bada55, -2px -2px 2px red;">Classic Horror Movie</h2>
+			 
+	  <p>Horror is one of those movie genres that seem to be perennially <b>popular</b>. 
+	  It’s not hard to see why. The genre is built on the <i><u>thrill and excitement of terror</u></i>, 
+	  of encouraging the viewer to feel as if their body is as vulnerable to destruction as
+	  that of the characters. And, of course, there is also the thrill of seeing other people
+	  find themselves in terrifying situations, even as the viewer (supposedly) knows more than
+	  the characters.</p>
+	  
+	  <p>Some similar classic horror movies:</p>
+	  <ul>
+	    <li>Hatchet</li>
+		<li>The Hills Have Eyes</li>
+		<li>Scream</li>
+	  </ul>
+	  
+	  <p>Similarities Between These Classic Horror Movies</p>
+	  <ol>
+	    <li>Perverted Killer</li>
+		<li>Bloody</li>
+		<li>Masked or disfigured murderer</li>
+	  </ol>
+		
+	  
+<nav>
+  <a href="Assignment2.html">HOME</a>  |
+  <a href="FIRDAY THE 13TH.html">FIRDAY THE 13TH</a>  |
+  <a href="A NIGHTMARE ON ELM STREET.html">A NIGHTMARE ON ELM STREET</a>  |
+  <a href="HALLOWEEN.html">HALLOWEEN</a>  |
+</nav>
+
+<img src="images/gost.jpg" alt="A CUTE CARTOON GHOST IS SCARING YOU.">
+
+      </body>
+</html>

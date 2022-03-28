@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+      <head>
+	      <title>FIRDAY THE 13TH</title>
+	  </head>
+	  <body>
+	         <h2>FIRDAY THE 13TH</h2>
+			 
+	  <p>
+	     <i><b>Friday the 13th</b></i> is an American horror franchise that comprises twelve slasher films, 
+	  a television series, novels, comic books, video games, and tie‑in merchandise. 
+	  The franchise mainly focuses on the fictional character Jason Voorhees, 
+	  who was thought to have drowned as a boy at Camp Crystal Lake due to the 
+	  negligence of the camp staff. Decades later, the lake is rumored to be "cursed" and 
+	  is the setting for a series of mass murders. Jason is featured in all of the films, 
+	  as either the killer or the motivation for the killings.</p>
+<nav>
+  <a href="Assignment2.html">HOME</a>  |
+  <a href="FIRDAY THE 13TH.html">FIRDAY THE 13TH</a>  |
+  <a href="A NIGHTMARE ON ELM STREET.html">A NIGHTMARE ON ELM STREET</a>  |
+  <a href="#">HALLOWEEN</a>  |
+</nav>
+
+<img src="images/13th.jpg">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cCfO1aB8CIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      </body>
+</html>
